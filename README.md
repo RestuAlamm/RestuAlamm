@@ -27,7 +27,7 @@ Building scalable backend systems, IoT applications, and autonomous robotics pro
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,php,python,cpp" />
+<img src="https://skillicons.dev/icons?i=js,php,python,cpp,java" />
 </p>
 
 ### Backend Development
@@ -51,7 +51,7 @@ Building scalable backend systems, IoT applications, and autonomous robotics pro
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=arduinoIDE,git,github,linux,vscode,postman,docker" />
 </p>
 
 ### Robotics & IoT
@@ -88,27 +88,15 @@ Building scalable backend systems, IoT applications, and autonomous robotics pro
 
 ---
 
-### 🚗 Fleet Management System
+### Logistics Management System
 
 - Laravel
 - Tailwind CSS
 - MySQL
-- Vehicle Management
-- Driver Management
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=RestuAlamm&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RestuAlamm&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RestuAlamm&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+- Shipment Management
+- Delivery Tracking
+- Order Management
+- Driver & Vehicle Assignment
 
 ---
 
