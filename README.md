@@ -6,9 +6,9 @@
 
 Building scalable backend applications, embedded systems, and autonomous robotics.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)][((https://portfolio2-omega-bay.vercel.app/))]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:aaapolo112233@gmmail.com)
 
 </div>
 
@@ -22,17 +22,29 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 
 ---
 
-# 🚀 Current Mission
+# Current Mission
 
-- 🔹 Developing scalable REST APIs
 - 🔹 Building IoT & Robotics systems
-- 🔹 Learning Docker & Clean Architecture
-- 🔹 Exploring System Design & DevOps
 - 🔹 Improving Software Engineering practices
+- 🔹 Developing scalable REST APIs
+- 🔹 Exploring System Design & DevOps
 
 ---
 
-# 💻 Tech Stack
+## Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,php,python,cpp,nodejs,express,laravel,html,css,tailwind,mysql,docker,git,github,linux,postman,vscode"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="70"/>
+
+</p>
+
+---
+
+# Tech Stack
 
 ### Languages
 
@@ -76,9 +88,9 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
-## 🚁 Autonomous Surface Vehicle (ASV)
+## Autonomous Surface Vehicle (ASV)
 
 > Autonomous navigation system for surface vehicles.
 
@@ -93,7 +105,7 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 
 ---
 
-## ♻ Smart Reverse Vending Machine
+## Smart Reverse Vending Machine
 
 > Smart recycling machine that identifies plastic bottles and rewards users with points.
 
@@ -108,7 +120,7 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 
 ---
 
-## 📦 Logistics Management System
+## Logistics Management System
 
 > Web-based logistics platform for shipment and transportation management.
 
@@ -124,79 +136,8 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 
 ---
 
-## 🌾 Farm Management REST API
-
-> RESTful API for farm management built using Express.js.
-
-**Highlights**
-
-- Express.js
-- MySQL
-- JWT Authentication
-- CRUD API
-- Jest Testing
-- REST Architecture
-
----
-
-## 🤖 Robot Monitoring Dashboard
-
-> Real-time monitoring dashboard for robotic systems.
-
-**Highlights**
-
-- Node.js
-- MQTT
-- Express.js
-- Chart.js
-- Real-time Monitoring
-
----
-
-# 📖 Currently Learning
-
-- Docker
-- CI/CD
-- Clean Architecture
-- Design Patterns
-- System Design
-- Microservices
-
----
-
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Goals
-
-- Build production-ready backend applications
-- Contribute to open-source projects
-- Develop autonomous robotics solutions
-- Continuously learn modern technologies
-
----
-
-# 📬 Contact
-
-- 🌐 Portfolio : YOUR_PORTFOLIO
-- 💼 LinkedIn : YOUR_LINKEDIN
-- 📧 Email : YOUR_EMAIL
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my GitHub!
-
-*"Always learning. Always building."*
+### Thanks for visiting my GitHub!
 
 </div>
