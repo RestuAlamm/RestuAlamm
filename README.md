@@ -31,19 +31,6 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 
 ---
 
-## Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,php,python,cpp,nodejs,express,laravel,html,css,tailwind,mysql,docker,git,github,linux,postman,vscode"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="70"/>
-
-</p>
-
----
-
 # Tech Stack
 
 ### Languages
@@ -73,6 +60,7 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 ### Tools
 
 <p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" title="Arduino IDE"/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
 
