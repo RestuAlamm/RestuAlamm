@@ -60,6 +60,7 @@ I enjoy transforming ideas into reliable software by combining web technologies,
 ### Tools
 
 <p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="70"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" title="Arduino IDE"/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
