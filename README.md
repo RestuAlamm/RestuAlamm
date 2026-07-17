@@ -14,7 +14,7 @@ Building scalable backend applications, embedded systems, and autonomous robotic
 
 ---
 
-# 👋 Hello!
+# Hello!
 
 I'm **Restu Alam**, an Informatics student with a strong interest in **Backend Development**, **Internet of Things (IoT)**, and **Autonomous Robotics**.
 
