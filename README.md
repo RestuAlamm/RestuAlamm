@@ -1,36 +1,46 @@
 <div align="center">
 
-# Hi, I'm Restu Alam
+# Restu Alam
 
-### Fullstack Developer • IoT & Robotics Enthusiast
+### Backend Developer • Robotics • IoT Engineer
 
-Building scalable backend systems, IoT applications, and autonomous robotics projects.
+Building scalable backend applications, embedded systems, and autonomous robotics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-# About Me
+# 👋 Hello!
 
-- Informatics Student
-- Fullstack Developer
-- Passionate about Robotics, IoT, and Autonomous SystemsDesign**
+I'm **Restu Alam**, an Informatics student with a strong interest in **Backend Development**, **Internet of Things (IoT)**, and **Autonomous Robotics**.
+
+I enjoy transforming ideas into reliable software by combining web technologies, embedded systems, and automation.
 
 ---
 
-# Tech Stack
+# 🚀 Current Mission
 
-### Programming Languages
+- 🔹 Developing scalable REST APIs
+- 🔹 Building IoT & Robotics systems
+- 🔹 Learning Docker & Clean Architecture
+- 🔹 Exploring System Design & DevOps
+- 🔹 Improving Software Engineering practices
+
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,php,python,cpp,java" />
+<img src="https://skillicons.dev/icons?i=js,php,python,cpp" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
@@ -51,12 +61,13 @@ Building scalable backend systems, IoT applications, and autonomous robotics pro
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduinoIDE,git,github,linux,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode" />
 </p>
 
-### Robotics & IoT
+### Embedded & Robotics
 
 - ESP32
+- Arduino IDE
 - ROS2
 - MAVROS
 - Pixhawk
@@ -65,59 +76,127 @@ Building scalable backend systems, IoT applications, and autonomous robotics pro
 
 ---
 
-# Featured Projects
+# 📂 Featured Projects
 
-### Autonomous Surface Vehicle (ASV)
+## 🚁 Autonomous Surface Vehicle (ASV)
+
+> Autonomous navigation system for surface vehicles.
+
+**Highlights**
 
 - ROS2
 - MAVROS
-- MQTT
+- MQTT Communication
 - Mission Management
-- Telemetry System
+- Telemetry Bridge
 - Pixhawk Integration
 
 ---
 
-### Smart Reverse Vending Machine
+## ♻ Smart Reverse Vending Machine
+
+> Smart recycling machine that identifies plastic bottles and rewards users with points.
+
+**Highlights**
 
 - ESP32
 - Computer Vision
 - QR Authentication
-- Reward Point System
-- Bottle Classification
+- Reward System
+- Bottle Detection
+- IoT Integration
 
 ---
 
-### Logistics Management System
+## 📦 Logistics Management System
+
+> Web-based logistics platform for shipment and transportation management.
+
+**Highlights**
 
 - Laravel
 - Tailwind CSS
 - MySQL
 - Shipment Management
+- Driver Assignment
+- Vehicle Assignment
 - Delivery Tracking
-- Order Management
-- Driver & Vehicle Assignment
 
 ---
 
-# Connect with Me
+## 🌾 Farm Management REST API
 
-<p align="left">
+> RESTful API for farm management built using Express.js.
 
-<a href="https://linkedin.com/in/restu-alam">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+**Highlights**
 
-<a href="mailto:aaapolo112233@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+- Express.js
+- MySQL
+- JWT Authentication
+- CRUD API
+- Jest Testing
+- REST Architecture
 
-</p>
+---
+
+## 🤖 Robot Monitoring Dashboard
+
+> Real-time monitoring dashboard for robotic systems.
+
+**Highlights**
+
+- Node.js
+- MQTT
+- Express.js
+- Chart.js
+- Real-time Monitoring
+
+---
+
+# 📖 Currently Learning
+
+- Docker
+- CI/CD
+- Clean Architecture
+- Design Patterns
+- System Design
+- Microservices
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Goals
+
+- Build production-ready backend applications
+- Contribute to open-source projects
+- Develop autonomous robotics solutions
+- Continuously learn modern technologies
+
+---
+
+# 📬 Contact
+
+- 🌐 Portfolio : YOUR_PORTFOLIO
+- 💼 LinkedIn : YOUR_LINKEDIN
+- 📧 Email : YOUR_EMAIL
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile
+### ⭐ Thanks for visiting my GitHub!
+
+*"Always learning. Always building."*
 
 </div>
